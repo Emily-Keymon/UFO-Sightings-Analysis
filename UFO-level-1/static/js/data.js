@@ -978,7 +978,7 @@ var data = [
     country: "us",
     shape: "triangle",
     durationMinutes: "30 seconds",
-    comments: "Blinking lights on a rectanglar shaped object spotted in the sky in White Oak&#44 PA."
+    comments: "Blinking lights on a rectangular shaped object spotted in the sky in White Oak&#44 PA."
   },
   {
     datetime: "1/13/2010",
