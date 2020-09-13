@@ -1,3 +1,5 @@
+// UFO dataset provided in the form of an array of JavaScript objects//
+
 var data = [
   {
     datetime: "1/1/2010",

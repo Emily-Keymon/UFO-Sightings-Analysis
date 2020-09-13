@@ -1,16 +1,22 @@
-// from data.js
+// Using the data variable from data.js, write code that appends a table to web page
+// then adds new rows of data for each UFO sighting
+
+// Set up variable for table data from data.js
 var tableData = data;
 
-// get table references
+// Set up variable to get table references
 var tbody = d3.select("tbody");
 
+// Create function to build table data
 function buildTable(data) {
-  // First, clear out any existing data
+
+  // Clear out any existing data
   tbody.html("");
 
-  // Next, loop through each object in the data
+  // Loop through each object in the data
   // and append a row and cells for each value in the row
   data.forEach((dataRow) => {
+
     // Append a row to the table body
     var row = tbody.append("tr");
 
@@ -23,9 +29,10 @@ function buildTable(data) {
   });
 }
 
-// Keep Track of all filters
+// Create array to store all filters
 var filters = {};
 
+// Create filter function
 function updateFilters() {
 
   // Save the element, value, and id of the filter that was changed
@@ -47,6 +54,7 @@ function updateFilters() {
 
 }
 
+// Create function to filter table
 function filterTable() {
 
   // Set the filteredData to the tableData
@@ -58,7 +66,7 @@ function filterTable() {
     filteredData = filteredData.filter(row => row[key] === value);
   });
 
-  // Finally, rebuild the table using the filtered Data
+  // Rebuild the table using the filtered Data
   buildTable(filteredData);
 }
 

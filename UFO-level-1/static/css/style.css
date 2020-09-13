@@ -176,6 +176,7 @@ select {
   #table-area tbody td {
     display: block;
     text-align: center;
+
   }
 
   #table-area tbody td::before {
