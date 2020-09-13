@@ -1,3 +1,5 @@
+## Visit website:  https://emily-keymon.github.io/javascript-challenge/
+
 # JavaScript and DOM Manipulation
 
 ## Background
