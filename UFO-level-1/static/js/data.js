@@ -999,6 +999,897 @@ var data = [
     shape: "unknown",
     durationMinutes: "4 minutes",
     comments: "Bright orange object&#44 rapid speed and direction changes .."
+  },
+  {
+    datetime: "1/13/2010",
+    city: "denver",
+    state: "co",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "10 seconds",
+    comments: "large object hovering completely still&#44 three lights in the center with a glowing rounded bottom."
+  },
+  {
+    datetime: "1/13/2010",
+    city: "gregory",
+    state: "mi",
+    country: "us",
+    shape: "light",
+    durationMinutes: "5min.",
+    comments: "four lights in the sky."
+  },
+  {
+    datetime: "1/13/2010",
+    city: "modesto",
+    state: "ca",
+    country: "us",
+    shape: "other",
+    durationMinutes: "1 minute",
+    comments: "A diamond shapped object dimly lit and moving silent through the night sky"
+  },
+  {
+    datetime: "1/14/2010",
+    city: "lexington",
+    state: "ky",
+    country: "us",
+    shape: "fireball",
+    durationMinutes: "4 minutes",
+    comments: "HAVE PICTURES"
+  },
+  {
+    datetime: "1/14/2010",
+    city: "holiday island",
+    state: "ar",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "10 minutes",
+    comments: "Triangular patterned lights over Holiday Island&#44 Arkansas marina."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "carlsbad",
+    state: "ca",
+    country: "us",
+    shape: "light",
+    durationMinutes: "5 minutes",
+    comments: "Bright light changes color from blue to red as it circles&#44 hovers&#44 dips&#44 and rises up&#44 only to eventually circle back down."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "bakersfield",
+    state: "ca",
+    country: "us",
+    shape: "circle",
+    durationMinutes: "8-10 minutes",
+    comments: "Strange brightwhite w/red luminous &amp;quot; ufo &amp;quot; vanished right before me and leave&#39s the strangest smoke .......  I&#39ve ever seen ."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "north san juan",
+    state: "ca",
+    country: "us",
+    shape: "fireball",
+    durationMinutes: 30,
+    comments: "Large bright orange moon looking object hovers over mountains near sutter yuba countys."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "greensboro",
+    state: "nc",
+    country: "us",
+    shape: "light",
+    durationMinutes: 45,
+    comments: "Light shaped reflective star that moving over the sky in a westerly direction."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "greensboro",
+    state: "nc",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "20 min",
+    comments: "Broad daylight multiple color changing spheres"
+  },
+  {
+    datetime: "1/15/2010",
+    city: "pinawa (canada)",
+    state: "mb",
+    country: "ca",
+    shape: "light",
+    durationMinutes: "40 sec",
+    comments: "I saw a strange light at our local Girl Guide unit."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "long beach",
+    state: "ca",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "5 minutes +",
+    comments: "Loud cycling noise followed by multiple helicopters"
+  },
+  {
+    datetime: "1/15/2010",
+    city: "tempe",
+    state: "az",
+    country: "us",
+    shape: "circle",
+    durationMinutes: "5 minutes",
+    comments: "Orange&#44 glowing&#44 floating circular object over Tempe."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "whittier",
+    state: "ca",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "20 seconds",
+    comments: "round saucer with bright lights circiling around it"
+  },
+  {
+    datetime: "1/15/2010",
+    city: "flat creek",
+    state: "nc",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "1:00",
+    comments: "Triangle craft headed towards Mars Hill&#44 NC"
+  },
+  {
+    datetime: "1/15/2010",
+    city: "yuma",
+    state: "az",
+    country: "us",
+    shape: "light",
+    durationMinutes: "15 seconds",
+    comments: "Three white round lights morphed into two&#44 changed colors and then disappeared in the sky near Yuma&#44 AZ."
+  },
+  {
+    datetime: "1/15/2010",
+    city: "plainville",
+    state: "ct",
+    country: "us",
+    shape: "rectangle",
+    durationMinutes: "30 seconds",
+    comments: "Rectangular object moving across the sky."
+  },
+  {
+    datetime: "1/16/2010",
+    city: "great falls",
+    state: "mt",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: 5,
+    comments: "Slow&#44 low craft with bright lights in a triangle pattern- heavy wind- Great Falls&#44 MT"
+  },
+  {
+    datetime: "1/16/2010",
+    city: "boise",
+    state: "id",
+    country: "us",
+    shape: "changing",
+    durationMinutes: "2 minutes",
+    comments: "Red Light Above Boise Descends at Tremendous Speed&#44 Stops to Hover&#44 Emits Radiation - All filmed by Observer 01/16/2010"
+  },
+  {
+    datetime: "1/16/2010",
+    city: "corona",
+    state: "ca",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "5 minutes",
+    comments: "White lights on triangular object over corona"
+  },
+  {
+    datetime: "1/16/2010",
+    city: "corona",
+    state: "ca",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "3 min.",
+    comments: "CA&#44 Corona White Flashing Lights"
+  },
+  {
+    datetime: "1/16/2010",
+    city: "bellingham",
+    state: "ma",
+    country: "us",
+    shape: "light",
+    durationMinutes: "2 min",
+    comments: "Blinking light zig-zagging across the sky."
+  },
+  {
+    datetime: "1/16/2010",
+    city: "grass valley",
+    state: "ca",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "1 second",
+    comments: "I saw a very bright&#44 white light at a very high speed shoot diagonally upwards into the sky."
+  },
+  {
+    datetime: "1/16/2010",
+    city: "henderson",
+    state: "nv",
+    country: "us",
+    shape: "chevron",
+    durationMinutes: "6 seconds",
+    comments: "small stealth bomber shaped object flew overhead silently"
+  },
+  {
+    datetime: "1/17/2010",
+    city: "granite falls",
+    state: "wa",
+    country: "us",
+    shape: "light",
+    durationMinutes: "20 seconds",
+    comments: "Bright light coming from the sky with no noise."
+  },
+  {
+    datetime: "1/17/2010",
+    city: "bayfield",
+    state: "wi",
+    country: "us",
+    shape: "light",
+    durationMinutes: "15 seconds",
+    comments: "at 6:30 pm i was playing outside with my daughter. We were running through the trails i shoveled through the snow. My daughter loves to"
+  },
+  {
+    datetime: "1/17/2010",
+    city: "las vegas",
+    state: "nv",
+    country: "us",
+    shape: "other",
+    durationMinutes: "20 seconds",
+    comments: "Sighting of a Glowing Ring floating down then across and past our hotel window. 2 different sightings."
+  },
+  {
+    datetime: "1/17/2010",
+    city: "miami",
+    state: "fl",
+    country: "us",
+    shape: "rectangle",
+    durationMinutes: "1 min",
+    comments: "Bright lights and fast moving object&#33"
+  },
+  {
+    datetime: "1/18/2010",
+    city: "pittsburgh",
+    state: "pa",
+    country: "us",
+    shape: "light",
+    durationMinutes: "4 minutes",
+    comments: "Three very intense pulses or flashes of light in the north suburbs of Pittsburgh&#44PA.  01/18/2010 1:30am."
+  },
+  {
+    datetime: "1/18/2010",
+    city: "lamar",
+    state: "sc",
+    country: "us",
+    shape: "cigar",
+    durationMinutes: "5 minutes",
+    comments: "Silver Cigar-shaped object at 7:38 am in Lamar&#44 SC"
+  },
+  {
+    datetime: "1/18/2010",
+    city: "old hickory",
+    state: "tn",
+    country: "us",
+    shape: "changing",
+    durationMinutes: "10:20",
+    comments: "THE FACT THAT THEY WAS TAKEING WATER FOR SOME RESONE"
+  },
+  {
+    datetime: "1/18/2010",
+    city: "oldwick",
+    state: "nj",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "1 min- 3 min",
+    comments: "Triangular object with 40+ lights hovering over Oldwick&#44 New Jersey."
+  },
+  {
+    datetime: "1/18/2010",
+    city: "mullica hill",
+    state: "nj",
+    country: "us",
+    shape: "other",
+    durationMinutes: "5 seconds",
+    comments: "I saw what I thought was a plane flying straight with headlights on&#44 evolve into a bowtiw shape of light and shoot down to the ground."
+  },
+  {
+    datetime: "1/18/2010",
+    city: "dillon",
+    state: "mt",
+    country: "us",
+    shape: "oval",
+    durationMinutes: "5 seconds",
+    comments: "I was setting in my livingroom reading a book.  My dog was barking excessivly. I looked out the window and saw a very brilliant pure wh"
+  },
+  {
+    datetime: "1/18/2010",
+    city: "whitehall",
+    state: "mt",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "a few seconds",
+    comments: "brightly glowing aqua-greenish sphere comes straight down and land 50 yards out in our horse pasture with no noise and disappears."
+  },
+  {
+    datetime: "1/18/2010",
+    city: "seattle",
+    state: "wa",
+    country: "us",
+    shape: "light",
+    durationMinutes: "2 minutes",
+    comments: "Bright&#44 flickering orange light"
+  },
+  {
+    datetime: "1/18/2010",
+    city: "arroyo grande",
+    state: "ca",
+    country: "us",
+    shape: "light",
+    durationMinutes: "milisec",
+    comments: "Two bluish-green lights moving NNE over Arroyo Grande&#44 CA at unbelievable speed."
+  },
+  {
+    datetime: "1/19/2010",
+    city: "elmwood park",
+    state: "il",
+    country: "us",
+    shape: "flash",
+    durationMinutes: "30 seconds",
+    comments: "Two flashes quickly whisk into the sky and away"
+  },
+  {
+    datetime: "1/19/2010",
+    city: "azusa",
+    state: "ca",
+    country: "us",
+    shape: "light",
+    durationMinutes: "6 minutes",
+    comments: "Red lights blinking or turning on/off in an estimated shape of a triangle."
+  },
+  {
+    datetime: "1/19/2010",
+    city: "amherst",
+    state: "va",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "5 miutes",
+    comments: "Mother and daughter chase UFO to daughter&#39s house"
+  },
+  {
+    datetime: "1/20/2010",
+    city: "gowanda",
+    state: "ny",
+    country: "us",
+    shape: "fireball",
+    durationMinutes: "<5 sec.",
+    comments: "((HOAX??))  very fast fireballs&#44very scared."
+  },
+  {
+    datetime: "1/20/2010",
+    city: "walnut",
+    state: "ia",
+    country: "us",
+    shape: "flash",
+    durationMinutes: "1 minute",
+    comments: "HUGE Flash of Pale Blue Light &amp; Loud Cracking Sound in Walnut&#44 IA."
+  },
+  {
+    datetime: "1/20/2010",
+    city: "san jose",
+    state: "ca",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "1hr",
+    comments: "I was in the back yard with grandkids&#44saw a bright light in the sky coming towards us&#44it stopped over my house&#44then i started taken vid"
+  },
+  {
+    datetime: "1/20/2010",
+    city: "north stonington",
+    state: "ct",
+    country: "us",
+    shape: "light",
+    durationMinutes: "20 minutes",
+    comments: "Strange Lights and booming noises in North Stonington CT"
+  },
+  {
+    datetime: "1/20/2010",
+    city: "bandon",
+    state: "or",
+    country: "us",
+    shape: "other",
+    durationMinutes: "15 minutes",
+    comments: "Close Encounter of the 5th Kind. ((NUFORC Note:  Possibly not a serious-minded report.  PD))"
+  },
+  {
+    datetime: "1/20/2010",
+    city: "poughkeepsie",
+    state: "ny",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "about 15 minutes",
+    comments: "Alien ship appears near synagogue."
+  },
+  {
+    datetime: "1/20/2010",
+    city: "batesville",
+    state: "ar",
+    country: "us",
+    shape: "diamond",
+    durationMinutes: "3 minutes",
+    comments: "Craft Hovering extremly quite; could have easily been inches above our hear unless we looked we would have had no idea"
+  },
+  {
+    datetime: "1/20/2010",
+    city: "new port richey",
+    state: "fl",
+    country: "us",
+    shape: "fireball",
+    durationMinutes: "about 2 minutes",
+    comments: "Several orange orbs following eachother ACROSS the night sky&#44 I witnessed about 6 of them&#44 after calling my wife&#44 she was able to see 3"
+  },
+  {
+    datetime: "1/21/2010",
+    city: "saint charles",
+    state: "ia",
+    country: "us",
+    shape: "other",
+    durationMinutes: "15 minutes",
+    comments: "Witness soundless flickering lights moving NE in the clouds above."
+  },
+  {
+    datetime: "1/21/2010",
+    city: "rochester",
+    state: "ny",
+    country: "us",
+    shape: "circle",
+    durationMinutes: "40+ min",
+    comments: "&quot;Flying Saucer&quot; surrounded by 8 planes"
+  },
+  {
+    datetime: "1/21/2010",
+    city: "san antonio",
+    state: "tx",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "1/2 second",
+    comments: "comet looking object seen on NW side of San Antonio TX at 10:19pm 1/21/10"
+  },
+  {
+    datetime: "1/21/2010",
+    city: "bloomfield",
+    state: "nj",
+    country: "us",
+    shape: "other",
+    durationMinutes: "5 min",
+    comments: "3 lights sighted not blinking&#44 moving slow&#44 duration 5 min not jet or blimp."
+  },
+  {
+    datetime: "1/22/2010",
+    city: "riverside",
+    state: "nj",
+    country: "us",
+    shape: "light",
+    durationMinutes: "10-15 minutes",
+    comments: "2 lights apear and the others shoots across sky when a plane flys by.  ((NUFORC Note:  Student report.  PD))"
+  },
+  {
+    datetime: "1/22/2010",
+    city: "boise",
+    state: "id",
+    country: "us",
+    shape: "changing",
+    durationMinutes: "20-25 seconds",
+    comments: "33&#39 Wide White Object seen over Boise&#44 ID&#44 emitting Screeching/Shrill Noise (01/22/10)"
+  },
+  {
+    datetime: "1/22/2010",
+    city: "lincoln",
+    state: "ne",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "about 15 minutes",
+    comments: "((NUFORC Note:  Student report. PD)) I am a firm believer in aliens&#44 being 16 years old&#44 I know people usually don&#39t take me seriously."
+  },
+  {
+    datetime: "1/22/2010",
+    city: "socorro",
+    state: "nm",
+    country: "us",
+    shape: "light",
+    durationMinutes: "20 minutes",
+    comments: "Silent red lights over Socorro&#44 NM.  ((NUFORC Note:  Witness experienced in the field of astronomy.  PD))"
+  },
+  {
+    datetime: "1/22/2010",
+    city: "southbridge",
+    state: "ma",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "6-7 minutes",
+    comments: "Wedge shaped&#44 Unusual lights&#44 severe ozone smell"
+  },
+  {
+    datetime: "1/22/2010",
+    city: "spring",
+    state: "tx",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "40 min",
+    comments: "This is a true story&#44 told just as it happened. One night (Approximately January 15th&#44 2010&#44 at 8:30 PM) while taking my 19 year ol"
+  },
+  {
+    datetime: "1/22/2010",
+    city: "peekskill",
+    state: "ny",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "30 seconds",
+    comments: "Flashing amber light flying very low over the Hudson River."
+  },
+  {
+    datetime: "1/23/2010",
+    city: "titusville",
+    state: "fl",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "3 seconds",
+    comments: "this triangle ufo was transparent and  able to disappear"
+  },
+  {
+    datetime: "1/23/2010",
+    city: "reno",
+    state: "nv",
+    country: "us",
+    shape: "cigar",
+    durationMinutes: "5 minutes",
+    comments: "bright beam of light may have landed in reno&#44 nevada"
+  },
+  {
+    datetime: "1/23/2010",
+    city: "carson city",
+    state: "nv",
+    country: "us",
+    shape: "light",
+    durationMinutes: "6 sec",
+    comments: "3 blue lights over carson city in the vicinity of  E 5th st."
+  },
+  {
+    datetime: "1/23/2010",
+    city: "lakewood",
+    state: "ca",
+    country: "us",
+    shape: "disk",
+    durationMinutes: "picture",
+    comments: "seen strange saucer shaped object  in a picture i took from my backyard."
+  },
+  {
+    datetime: "1/23/2010",
+    city: "pacific grove",
+    state: "ca",
+    country: "us",
+    shape: "light",
+    durationMinutes: "8 minutes",
+    comments: "Observed 17 small light moving below the moon at 15:20PST on Saturday 1/23/10."
+  },
+  {
+    datetime: "1/24/2010",
+    city: "tampa",
+    state: "fl",
+    country: "us",
+    shape: "circle",
+    durationMinutes: "5-6 minutes",
+    comments: "Multi-colored illuminated circular object hovers near and crosses over busy interstate highway."
+  },
+  {
+    datetime: "1/25/2010",
+    city: "lashburn (canada)",
+    state: "sk",
+    country: "ca",
+    shape: "triangle",
+    durationMinutes: "ongoing",
+    comments: "Star moving in circular motion counterclockwise over LAshburn Sk&#44CAnada"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "iroquois falls (canada)",
+    state: "on",
+    country: "ca",
+    shape: "unknown",
+    durationMinutes: "1/4 second",
+    comments: "Your site was refered by the Rhine Research Center. For the past several months&#44 my wife and I have seen a bright white light in our be"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "lake stevens",
+    state: "wa",
+    country: "us",
+    shape: "unknown",
+    durationMinutes: "15min.",
+    comments: "Monday the 25th and the 26th. I am up at 4:45am every morning&#44 went out to have a smoke. The skys were clear&#44 both mornings&#44 I saw what"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "miami",
+    state: "fl",
+    country: "us",
+    shape: "other",
+    durationMinutes: "seconds",
+    comments: "Watching the 5:30 news here in Miami on channel 7 the anchor described how someone found inside a dumpster a framed pic of the space sh"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "keaau",
+    state: "hi",
+    country: "us",
+    shape: "light",
+    durationMinutes: "couple minutes",
+    comments: "Golden round light flying quietly&#44 small side balls blinked"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "naples",
+    state: "fl",
+    country: "us",
+    shape: "light",
+    durationMinutes: "1 min",
+    comments: "Amber light floats over Naples UFO or ???"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "clayton",
+    state: "nc",
+    country: "us",
+    shape: "light",
+    durationMinutes: "3 seconds",
+    comments: "1 light ver fast then gone"
+  },
+  {
+    datetime: "1/25/2010",
+    city: "raleigh",
+    state: "nc",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "5 min",
+    comments: "I have one picture of green spheres near the moon.  Eight to twelve objects the same size.  Plane green spheres"
+  },
+  {
+    datetime: "1/26/2010",
+    city: "austin",
+    state: "tx",
+    country: "us",
+    shape: "other",
+    durationMinutes: "2 minutes",
+    comments: "Two objects over Austin"
+  },
+  {
+    datetime: "1/26/2010",
+    city: "miami",
+    state: "fl",
+    country: "us",
+    shape: "light",
+    durationMinutes: "less than 2 sec",
+    comments: "Saw first magnitude pinpoint moving south to north around 7:00 pm EST near Polaris from Miami"
+  },
+  {
+    datetime: "1/26/2010",
+    city: "chico",
+    state: "wa",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "3 minutes",
+    comments: "Two lights joined by a third to form a triangular shape hovering ESE of Chico&#44 Washington."
+  },
+  {
+    datetime: "1/27/2010",
+    city: "greensboro",
+    state: "nc",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "20 min",
+    comments: "Round object maybe 5 miles away with an altitude about the same as a plane and has been stationary for about 20 min so far."
+  },
+  {
+    datetime: "1/27/2010",
+    city: "fort collins",
+    state: "co",
+    country: "us",
+    shape: "light",
+    durationMinutes: "8 min",
+    comments: "Very Bright in due West&#44 Hovered about 2 min&#39s&#44 then accelerated very fast stright up."
+  },
+  {
+    datetime: "1/27/2010",
+    city: "santa fe springs",
+    state: "ca",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "3 minutes",
+    comments: "UFO manuvering directly in LAX final approach"
+  },
+  {
+    datetime: "1/27/2010",
+    city: "charlotte",
+    state: "nc",
+    country: "us",
+    shape: "fireball",
+    durationMinutes: "20:30-20:31",
+    comments: "Weird object goes across sky and boards a sationary object.  ((NUFORC Note:  Student report.  PD))"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "south bend",
+    state: "in",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "20 sec",
+    comments: "triangle over south bend"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "reedsville",
+    state: "oh",
+    country: "us",
+    shape: "light",
+    durationMinutes: "20 minutes",
+    comments: "Strange rotating bright light appears&#44 disappears&#44 and re-appears"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "santa ana",
+    state: "ca",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "5 seconds",
+    comments: "Two white spheres flying over an orange county freeway"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "houston",
+    state: "tx",
+    country: "us",
+    shape: "circle",
+    durationMinutes: "45 sec",
+    comments: "2 spheres flying around each other&#44 on a rotating axis"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "perris",
+    state: "ca",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "10 minutes",
+    comments: "Large black triangle hovering between 1500-2500 high then slowly crept northward at 50-80mph."
+  },
+  {
+    datetime: "1/28/2010",
+    city: "folsom",
+    state: "nj",
+    country: "us",
+    shape: "sphere",
+    durationMinutes: "30 seconds",
+    comments: "reflective object leaves light trail&#44 disappears"
+  },
+  {
+    datetime: "1/28/2010",
+    city: "stillwater",
+    state: "mn",
+    country: "us",
+    shape: "light",
+    durationMinutes: "15 minutes",
+    comments: "Bright lights over St. Croix River/Bayport area Minnesota"
+  },
+  {
+    datetime: "1/29/2010",
+    city: "bayfield (canada)",
+    state: "on",
+    country: "ca",
+    shape: "unknown",
+    durationMinutes: "less than 2 hours",
+    comments: "wake up browsed with cuts one arm from wrist to elbow already healled except of 1 inch"
+  },
+  {
+    datetime: "1/29/2010",
+    city: "maple valley",
+    state: "wa",
+    country: "us",
+    shape: "changing",
+    durationMinutes: "all night and still conti",
+    comments: "strange lights make half diamond shape in sky and one approaches the house."
+  },
+  {
+    datetime: "1/29/2010",
+    city: "punxsutawney",
+    state: "pa",
+    country: "us",
+    shape: "light",
+    durationMinutes: "12-15 minutes",
+    comments: "Large white light surrounded by flashing red/green lights"
+  },
+  {
+    datetime: "1/29/2010",
+    city: "madison county",
+    state: "nc",
+    country: "us",
+    shape: "diamond",
+    durationMinutes: "1 minute",
+    comments: "I was driving down the road came to a stop sign. As i slowed i saw a bright flash of red and white light to my right. I then noticed in"
+  },
+  {
+    datetime: "1/29/2010",
+    city: "jefferson",
+    state: "md",
+    country: "us",
+    shape: "oval",
+    durationMinutes: "1-2minutes",
+    comments: "Oval shaped object sighted hovering over a field"
+  },
+  {
+    datetime: "1/29/2010",
+    city: "edinburg",
+    state: "tx",
+    country: "us",
+    shape: "cigar",
+    durationMinutes: "5 minutes",
+    comments: "At about 7:40pm a cigar shaped object at a great distance started doing zig-zags&#44 before joining 5 or more objects."
+  },
+  {
+    datetime: "1/30/2010",
+    city: "kennebunk beach",
+    state: "me",
+    country: "us",
+    shape: "cylinder",
+    durationMinutes: "3 plus hours",
+    comments: "Tall white colum of extremely bright light appearing suddenly off Kennebunk beach"
+  },
+  {
+    datetime: "1/30/2010",
+    city: "walkerton (canada)",
+    state: "on",
+    country: "ca",
+    shape: "rectangle",
+    durationMinutes: "1 min",
+    comments: "rectangle and orange. thought it was a fire but realized it was in the sky."
+  },
+  {
+    datetime: "1/30/2010",
+    city: "oakland",
+    state: "ca",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "5-10 sec",
+    comments: "Three transluscent&#44 reddish-colored&#44 orbs in a perfect triangular pattern fly overhead at a constant speed."
+  },
+  {
+    datetime: "1/31/2010",
+    city: "milwaukee",
+    state: "wi",
+    country: "us",
+    shape: "light",
+    durationMinutes: "4-6 min",
+    comments: "Very large&#44 bright moving searchlight&#44 but no plane or helicopter in sight to be making it."
+  },
+  {
+    datetime: "1/31/2010",
+    city: "stone mountain",
+    state: "ga",
+    country: "us",
+    shape: "triangle",
+    durationMinutes: "60-70 seconds",
+    comments: "Triangular object hovers&#44 darts away&#44  then disappears over Stone Mountain"
+  },
+  {
+    datetime: "1/31/2010",
+    city: "delray beach",
+    state: "fl",
+    country: "us",
+    shape: "egg",
+    durationMinutes: "15 minutes",
+    comments: "The most memorable part of the experience was the lack of sound and the fluidity of its motion."
   }
 ];
 
