@@ -26,7 +26,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 
 * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the `date/time` column to find rows that match user input.
 
-![level_one_screenshot](../static/images/level-1 screen shot.PNG)
+![level-1 screen shot](https://user-images.githubusercontent.com/64673015/93277184-4cd69b80-f787-11ea-8600-e9b9f01f0c6e.PNG)
 
 ### Level 2: Multiple Search Categories
 
