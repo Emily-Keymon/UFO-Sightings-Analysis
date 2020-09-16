@@ -12,8 +12,6 @@ That's why we are hiring you. We need you to write code that will create a table
 
 You can handle this... right? The planet Earth needs to know what we have found!
 
-*Note:  dataset contains data from 1/1/2010 to 12/31/2010
-
 ## Your Task
 
 ### Level 1: Automatic Table and Date Search
@@ -45,9 +43,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ### Dataset
 
 * [UFO Sightings Data](UFO-level-1/static/js/data3.js)
+Dataset used for this project was modified to include the entirety of 2010.
 
 - - -
-
-**Good luck!**
-
-- - -
+*Note:  Original dataset provided contained data from 1/1/2010 to 1/13/2010. 
