@@ -43,7 +43,7 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ### Dataset
 
 * [UFO Sightings Data](UFO-level-1/static/js/data3.js)
-Dataset used for this project was modified to include the entirety of 2010.
+* Dataset used for this project was modified to include the entirety of 2010.
 
 - - -
 *Note:  Original dataset provided contained data from 1/1/2010 to 1/13/2010. 
