@@ -2,15 +2,21 @@
 
 ### Visit website:   https://emily-keymon.github.io/UFO-Sightings-Analysis/
 
-## Background
+The purpose of this project is to write code that will create a table dynamically based upon a *[dataset we provide](UFO-level-1/static/js/data.js). Also allow users to filter the table data for specific values. Only JavaScript, HTML, CSS, and D3.js can be used on this project.
 
-WAKE UP SHEEPLE! The extra-terrestrial menace has come to Earth and we here at `ALIENS-R-REAL` have collected all of the eye-witness reports we could to prove it! All we need to do now is put this information online for the world to see and then the matter will finally be put to rest.
+## Data Source
+* [UFO Sightings Data](UFO-level-1/static/js/data3.js)
+* Dataset used for this project was modified to include the entirety of 2010.
+- - -
+*Note:  Original dataset provided contained data from 1/1/2010 to 1/13/2010. 
 
-There is just one tiny problem though... our collection is too large to search through manually. Even our most dedicated followers are complaining that they are having trouble locating specific reports in this mess.
+## Tools Used
 
-That's why we are hiring you. We need you to write code that will create a table dynamically based upon a *[dataset we provide](UFO-level-1/static/js/data.js). We also need to allow our users to filter the table data for specific values. There's a catch though... we only use pure JavaScript, HTML, and CSS, and D3.js on our web pages. They are the only coding languages which can be trusted.
+## Tasks
 
-You can handle this... right? The planet Earth needs to know what we have found!
+## Results
+
+
 
 ## Your Task
 
@@ -38,12 +44,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
   4. `country`
   5. `shape`
 
-- - -
-
-### Dataset
-
-* [UFO Sightings Data](UFO-level-1/static/js/data3.js)
-* Dataset used for this project was modified to include the entirety of 2010.
-
-- - -
-*Note:  Original dataset provided contained data from 1/1/2010 to 1/13/2010. 
