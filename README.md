@@ -25,17 +25,14 @@ The purpose of this project is to write code that will create a table dynamicall
 
 ### Level 2: Multiple search categories
 1.  Used multiple `input` tags and/or select dropdowns to write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
-  1. `date/time`
-  2. `city`
-  3. `state`
-  4. `country`
-  5. `shape`
-
-
+  * `date/time`
+  * `city`
+  * `state`
+  * `country`
+  * `shape`
+  
 ---
 ## Results
-
-
 
 ![level-1 screen shot](https://user-images.githubusercontent.com/64673015/93277184-4cd69b80-f787-11ea-8600-e9b9f01f0c6e.PNG)
 
