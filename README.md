@@ -1,19 +1,23 @@
 # UFO Sightings Analysis
 
+---
 ### Visit website:   https://emily-keymon.github.io/UFO-Sightings-Analysis/
 
 The purpose of this project is to write code that will create a table dynamically based upon a dataset. Website must allow users to filter the table data for specific values. Only JavaScript, HTML, CSS, and D3.js can be used on this project.
 
+---
 ## Data Source
 * [UFO Sightings Data](UFO-level-1/static/js/data3.js)
 * Dataset used for this project was modified to include the entirety of 2010.
-- - -
 *Note:  Original dataset provided contained data from 1/1/2010 to 1/13/2010. 
 
+---
 ## Tools Used
 
+---
 ## Tasks
 
+---
 ## Results
 
 
