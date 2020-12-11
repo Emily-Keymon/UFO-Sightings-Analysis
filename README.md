@@ -1,6 +1,6 @@
-### Visit website:   https://emily-keymon.github.io/UFO-Sightings-Analysis/
+# UFO Sightings Analysis
 
-# JavaScript and DOM Manipulation
+### Visit website:   https://emily-keymon.github.io/UFO-Sightings-Analysis/
 
 ## Background
 
