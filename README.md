@@ -10,6 +10,7 @@ The purpose of this project is to write code that will create a table dynamicall
 
 ---
 ## Tools Used
+* PyCharm - Python IDE
 * HTML, CSS, JavaScript, D3
 
 ---
