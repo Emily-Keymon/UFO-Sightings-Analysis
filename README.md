@@ -1,6 +1,6 @@
 # UFO Sightings Analysis
 
-The purpose of this project is to write code that will create a table dynamically based upon a dataset. Website must allow users to filter the table data for specific values. Only JavaScript, HTML, CSS, and D3.js can be used on this project.
+The purpose of this project was to write code that would create a table dynamically based upon a dataset. Website must allow users to filter the table data for specific values. Only JavaScript, HTML, CSS, and D3.js can be used on this project.
 
 ---
 ## Dataset
