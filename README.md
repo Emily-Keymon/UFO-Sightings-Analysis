@@ -22,7 +22,7 @@ The purpose of this project was to write code that would create a table dynamica
 3.  Created columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 4.  Used a date form in HTML document and wrote JavaScript code that listens for events and searches through the `date/time` column to find rows that match user input.
 
-### Level 2: Multiple search categories
+### Level 2 - Multiple search categories
 1.  Used multiple `input` tags and/or select dropdowns to write JavaScript code so the user can to set multiple filters and search for UFO sightings using the following criteria based on the table columns:
   * `date/time`
   * `city`
